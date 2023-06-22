@@ -15,7 +15,7 @@ class ButtonApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Button Checker',
+      title: 'Calculator',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const RoundButtonApp(),
     );
