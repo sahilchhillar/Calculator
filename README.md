@@ -1,10 +1,13 @@
-# test_proj
+# Calculator
 
-A new Flutter project.
+This Calculator project is a replica of iPhone Calculator.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+# Flutter Installation
+
 
 A few resources to get you started if this is your first Flutter project:
 
